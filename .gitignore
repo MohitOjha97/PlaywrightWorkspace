@@ -1,0 +1,15 @@
+node_modules/
+test-results/
+test-results_SU_Mp/
+Win11ChrMISA/
+Win11ChrMP/
+*.log
+local.log
+browserstack.err
+credentials.json
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
